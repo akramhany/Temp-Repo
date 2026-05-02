@@ -1,0 +1,55 @@
+Cairo University
+Faculty of Engineering
+Computer Engineering Department
+
+Big Data Project - Phase 1
+Team 5
+
+Name
+
+BN
+
+Ahmed Hamed Gaber Hamed
+
+3
+
+Akram Hany Karam Salam
+
+13
+
+Amir Anwar Bekhit Awd Kedis
+
+14
+
+Somia Saad Esmail Elshemy
+
+26
+
+Problem Definition
+What combination of habits leads to the best academic performance?
+
+Datasets:
+College Students Habits & Performance
+
+Planned Approach:
+•
+•
+•
+
+•
+•
+•
+
+Data pre-processing: Handling missing values, encoding categorical attributes, scaling numerical features, and
+extracting meaningful features
+EDA: We will be using statistical summaries and visualizations such as correlation matrices and distribution plots
+to understand relationships between student habits and academic performance.
+Descriptive Analysis: Clustering techniques such as K-Means and association rules will be applied to segment
+students into groups (e.g., high performers, average students, and at-risk students) based on lifestyle and
+academic features.
+Predictive Analysis: regression and classification models such as Linear Regression and Logistic Regression will
+be used to predict GPA or classify students based on performance levels.
+Model evaluation: will be performed using metrics such as accuracy, RMSE, precision, and recall.
+K-Means clustering algorithm will be implemented using MapReduce.
+
+
